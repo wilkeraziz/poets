@@ -1,0 +1,35 @@
+0.748276	1--1	1-1	First stop East Seventy-second ,	Primera parada calle Setenta y dos Este
+1.51753	2--2	1-1	Then the Upper West Side ,	Y luego vamos al Upper West Side
+1.03889	3--3	1-1	Look , that ’ s why all the crowds .	Mira , por eso había tanto jaleo
+0.14	4--4	1-1	Body snatchers .	¡ Caray , parecen zombies !
+2.1	5--5	1-1	What ?	¿ Qué pasa ?
+1.53065	6--6	1-1	Well , the doors ... How do we open them ?	Mira , las puertas … , ¿ cómo se abren ?
+1.48571	7--7	1-1	Hey ! You missed the turn . Where ’ re you going ?	¡ Eh , oiga ! . Se ha equivocado de dirección , ¿ adónde va usted ?
+0.711111	8--8	1-1	Maybe he ’ s going to take the Queensboro ,	Quizá piensa ir por Queensboro
+0.715528	9--9	1-1	Are you taking the bridge ?	¿ Va usted a coger el puente ?
+2	10--10	1-1	Hey !	¡ Eh , oiga !
+1.33525	11--11	1-1	Shit , Where ’ re you taking us ? Harlem . I ’ ll bet he ’ s taking us to Harlem .	¡ Coño ! , ¿ adónde nos lleva ? Harlem ; apuesto que nos está llevando a Harlem .
+1.98	12--12	1-1	Help ! Please ...	¡ Socorro ! … ¡ Por favor !
+0.610425	(13-14)--13	2-1	What ’ re you doing ? ~~~ Slow down . Where are ?	¿ Qué está usted haciendo ? . ¡ Frene ! ¿ Dónde estamos ?
+1.83542	15--14	1-1	Oh , God , no , Look .	¡ Oh , Dios mío , no ! . ¡ Mira !
+1.06154	16--15	1-1	What do you want ? Money ? We ’ ll give you money .	¿ Qué es lo que quiere ? ¿ Dinero ? , le daremos dinero .
+0.989474	17--16	1-1	Money ! How much ? I can give you a lot of money !	¿ Dinero ? ¿ Cuánto dinero quiere ? ¡ Puedo darle mucho dinero !
+1.41818	18--17	1-1	Oh , shit ...	Joder , mierda !
+2.59091	19--18	1-1	Please , no ,	No , por favor , no
+-0.3	20--0	1-0	He said Thirty-seven near Eleven . That ’ s all .	
+3.45105	21--19	1-1	Portable 5885 . Can ’ t find anything , Central . You have a further-to ?	Agente 5885 a Central . No consigo encontrar nada . ¿ Tenéis algún otro dato ?
+2.80338	22--20	1-1	Nothing more on location , 5885 . But one thing ... the RP said he hoped the vic was dead . K .	Nada más sobre ese lugar , 5885 , salvo una cosa … el informante nos dijo que esperaba que la víctima estuviera muerta . Corto .
+2.1	23--21	1-1	Say again , Central .	Repítelo , Central .
+0.184919	24--(22-23)	1-2	The RP said he hoped the victim was dead . For his sake . K .	El informante dijo que esperaba que la víctima estuviera muerta … por su bien . Corto . ~~~ Corto .
+1.41	25--24	1-1	Oh , man ...	Joder , Dios … !
+-0.6	26--25	1-1	Portable	Patrullera 5885 a Central . Adelante . He encontrado un 10-29 junto a las vías del tren en la Treinta y ocho con la Once . Homicidio . Necesito detectives , una CSU &#91; 2 &#93; , un autobús y un médico . Cierro .
+4.60119	27--26	1-1	Roger , 5885 . Perp in custody , K ?	Roger a 5885 . ¿ Culpable arrestado ?
+0.6375	28--27	1-1	No perp .	Culpable no hallado .
+2.04	29--28	1-1	Five-eight-eight-five , K .	Cinco , ocho , ocho , cinco , cierro .
+1	30--29	1-1	Hold up , there !	¡ Deténgase !
+1.23684	31--30	1-1	You can ’ t go through here ,	No puede pasar de aquí
+1.43885	32--31	1-1	It ’ s a crime scene . Please shut off the engine .	Ha habido un crimen . Por favor , detenga el motor .
+1.014	33--32	1-1	Lady , I don ’ t see any crimes .	Señorita , no veo ningún crimen .
+1.18286	34--33	1-1	That train , sir . Just leave it right there .	El tren , limítese a dejarlo parado aquí .
+1.26842	35--34	1-1	I can ’ t leave it here .	No puedo quedarme aquí .
+1.55844	36--35	1-1	Please shut off the engine .	Por favor , pare el motor .
