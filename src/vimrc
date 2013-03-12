@@ -1,0 +1,28 @@
+set nu
+set hlsearch
+set wrap
+set listchars=tab:\|\ 
+set list 
+highlight LineNr ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
+map <space> zz
+nnoremap n nzz
+nnoremap N Nzz
+nnoremap * *zz
+nnoremap # #zz
+nnoremap g* g*zz
+nnoremap g# g#zz
+map gr gT<CR>
+nmap <F7> :tabp<CR>
+nmap <F8> :tabn<CR>
+imap <F7> <ESC>:tabp<CR><INSERT>
+imap <F8> <ESC>:tabn<CR><INSERT>
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set smarttab
+set expandtab
+retab
+syntax on
+filetype indent plugin on
+au BufNewFile,BufRead *.pxi set filetype=python
+
